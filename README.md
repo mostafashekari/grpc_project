@@ -174,7 +174,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## **Acknowledgments**
 - [gRPC Documentation](https://grpc.io/docs/)
 - [Protocol Buffers Documentation](https://protobuf.dev/)
-
----
-
-Save this content into a file named `README.md` in your project directory. Let me know if you’d like further customization! 😊
